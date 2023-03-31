@@ -3,10 +3,10 @@ p{
 	color:rgb(0, 0, 0)
 }
 .psedo::before{
-	content:before;
-	color:rgb(0, 0, 0);
+	content:"Before Element";
+	color:rgb(255, 0, 0);
 }
-.psedo::after{
-	content:after;
+.psedo2::after{
+	content:"After Element";
 	color:rgb(255, 0, 0);
 }
