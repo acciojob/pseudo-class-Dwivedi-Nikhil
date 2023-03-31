@@ -2,9 +2,9 @@
 p{
 	color:rgb(0, 0, 0)
 }
-.before{
+.before:before{
 	color:rgb(255, 0, 0);
 }
-.after{
+.after:after{
 	color:rgb(255, 0, 0);
 }
