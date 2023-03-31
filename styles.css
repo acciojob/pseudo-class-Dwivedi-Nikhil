@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
-.pseudo{
+.before{
+	color:red;
+}
+.after{
 	color:red;
 }
