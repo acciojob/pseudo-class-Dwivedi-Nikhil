@@ -4,7 +4,16 @@ p{
 }
 .psedo::before{
 	content:"Before Element";
+	color:rgb(0, 0, 0);
+}
+.psedo2::before{
+	content:"After Element";
+	color:rgb(0, 0, 0);
+}
+.psedo::after{
+	content:"Before Element";
 	color:rgb(255, 0, 0);
+	
 }
 .psedo2::after{
 	content:"After Element";
